@@ -1,0 +1,5 @@
+To build modified oaCapture:
+> ./deps
+> make
+> g++  -I/usr/include/  -fPIC -g --std=c++11  -lzmq -c -o asi_zmq_publish.o asi_zmq_publish.cc
+> make

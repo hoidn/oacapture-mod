@@ -1,0 +1,57 @@
+#ifndef QTGUI_ALL_INCLUDES
+#define QTGUI_ALL_INCLUDES
+
+#include <QAbstractButton>
+#include <QAction>
+#include <QApplication>
+#include <QButtonGroup>
+#include <QCheckBox>
+#include <QColor>
+#include <QColorDialog>
+#include <QComboBox>
+#include <QFileDialog>
+#include <QFrame>
+#include <QGridLayout>
+#include <QHBoxLayout>
+#include <QIcon>
+#include <QImage>
+#include <QKeySequence>
+#include <QLabel>
+#include <QLayout>
+#include <QLayoutItem>
+#include <QLineEdit>
+#include <QList>
+#include <QListWidget>
+#include <QListWidgetItem>
+#include <QMenu>
+#include <QMessageBox>
+#include <QMouseEvent>
+#include <QObject>
+#include <QPaintDevice>
+#include <QPainter>
+#include <QPaintEvent>
+#include <QPushButton>
+#include <QRadioButton>
+#include <QRgb>
+#include <QScrollArea>
+#include <QSignalMapper>
+#include <QSlider>
+#include <QSpinBox>
+#include <QSplitter>
+#include <QStatusBar>
+#include <QString>
+#include <QTabWidget>
+#include <QtCore>
+#include <QtGui>
+#include <QtGuiDepends>
+#include <QtNetwork>
+#include <QTransform>
+#include <QtWidgets>
+#include <QVariant>
+#include <QVBoxLayout>
+#include <QVector>
+#include <QWheelEvent>
+#include <QWidget>
+
+#endif
+

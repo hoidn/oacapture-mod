@@ -1,0 +1,520 @@
+Traceback (most recent call last):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 861, in _handle
+    return route.call(**args)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 1734, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/watchdog_plugin.py", line 106, in wrapper
+    return callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/hmac_plugin.py", line 72, in wrapper
+    body = callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/handlers.py", line 65, in EventNotification
+    event_handler )( request_data )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/clang_completer.py", line 322, in OnFileReadyToParse
+    with self._files_being_compiled.GetExclusive( filename ):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/ephemeral_values_set.py", line 63, in __enter__
+    raise RuntimeError( ALREADY_PARSING_MESSAGE )
+RuntimeError: File already being parsed.
+Traceback (most recent call last):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 861, in _handle
+    return route.call(**args)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 1734, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/watchdog_plugin.py", line 106, in wrapper
+    return callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/hmac_plugin.py", line 72, in wrapper
+    body = callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/handlers.py", line 65, in EventNotification
+    event_handler )( request_data )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/clang_completer.py", line 322, in OnFileReadyToParse
+    with self._files_being_compiled.GetExclusive( filename ):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/ephemeral_values_set.py", line 63, in __enter__
+    raise RuntimeError( ALREADY_PARSING_MESSAGE )
+RuntimeError: File already being parsed.
+Traceback (most recent call last):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 861, in _handle
+    return route.call(**args)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 1734, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/watchdog_plugin.py", line 106, in wrapper
+    return callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/hmac_plugin.py", line 72, in wrapper
+    body = callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/handlers.py", line 65, in EventNotification
+    event_handler )( request_data )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/clang_completer.py", line 322, in OnFileReadyToParse
+    with self._files_being_compiled.GetExclusive( filename ):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/ephemeral_values_set.py", line 63, in __enter__
+    raise RuntimeError( ALREADY_PARSING_MESSAGE )
+RuntimeError: File already being parsed.
+Traceback (most recent call last):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 861, in _handle
+    return route.call(**args)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 1734, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/watchdog_plugin.py", line 106, in wrapper
+    return callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/hmac_plugin.py", line 72, in wrapper
+    body = callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/handlers.py", line 65, in EventNotification
+    event_handler )( request_data )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/clang_completer.py", line 322, in OnFileReadyToParse
+    with self._files_being_compiled.GetExclusive( filename ):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/ephemeral_values_set.py", line 63, in __enter__
+    raise RuntimeError( ALREADY_PARSING_MESSAGE )
+RuntimeError: File already being parsed.
+Traceback (most recent call last):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 861, in _handle
+    return route.call(**args)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 1734, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/watchdog_plugin.py", line 106, in wrapper
+    return callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/hmac_plugin.py", line 72, in wrapper
+    body = callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/handlers.py", line 65, in EventNotification
+    event_handler )( request_data )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/clang_completer.py", line 322, in OnFileReadyToParse
+    with self._files_being_compiled.GetExclusive( filename ):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/ephemeral_values_set.py", line 63, in __enter__
+    raise RuntimeError( ALREADY_PARSING_MESSAGE )
+RuntimeError: File already being parsed.
+Traceback (most recent call last):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 861, in _handle
+    return route.call(**args)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 1734, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/watchdog_plugin.py", line 106, in wrapper
+    return callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/hmac_plugin.py", line 72, in wrapper
+    body = callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/handlers.py", line 65, in EventNotification
+    event_handler )( request_data )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/clang_completer.py", line 322, in OnFileReadyToParse
+    with self._files_being_compiled.GetExclusive( filename ):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/ephemeral_values_set.py", line 63, in __enter__
+    raise RuntimeError( ALREADY_PARSING_MESSAGE )
+RuntimeError: File already being parsed.
+Traceback (most recent call last):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 861, in _handle
+    return route.call(**args)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 1734, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/watchdog_plugin.py", line 106, in wrapper
+    return callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/hmac_plugin.py", line 72, in wrapper
+    body = callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/handlers.py", line 65, in EventNotification
+    event_handler )( request_data )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/clang_completer.py", line 322, in OnFileReadyToParse
+    with self._files_being_compiled.GetExclusive( filename ):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/ephemeral_values_set.py", line 63, in __enter__
+    raise RuntimeError( ALREADY_PARSING_MESSAGE )
+RuntimeError: File already being parsed.
+Traceback (most recent call last):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 861, in _handle
+    return route.call(**args)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 1734, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/watchdog_plugin.py", line 106, in wrapper
+    return callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/hmac_plugin.py", line 72, in wrapper
+    body = callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/handlers.py", line 65, in EventNotification
+    event_handler )( request_data )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/clang_completer.py", line 322, in OnFileReadyToParse
+    with self._files_being_compiled.GetExclusive( filename ):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/ephemeral_values_set.py", line 63, in __enter__
+    raise RuntimeError( ALREADY_PARSING_MESSAGE )
+RuntimeError: File already being parsed.
+Traceback (most recent call last):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 861, in _handle
+    return route.call(**args)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 1734, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/watchdog_plugin.py", line 106, in wrapper
+    return callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/hmac_plugin.py", line 72, in wrapper
+    body = callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/handlers.py", line 65, in EventNotification
+    event_handler )( request_data )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/clang_completer.py", line 322, in OnFileReadyToParse
+    with self._files_being_compiled.GetExclusive( filename ):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/ephemeral_values_set.py", line 63, in __enter__
+    raise RuntimeError( ALREADY_PARSING_MESSAGE )
+RuntimeError: File already being parsed.
+Traceback (most recent call last):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 861, in _handle
+    return route.call(**args)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 1734, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/watchdog_plugin.py", line 106, in wrapper
+    return callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/hmac_plugin.py", line 72, in wrapper
+    body = callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/handlers.py", line 65, in EventNotification
+    event_handler )( request_data )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/clang_completer.py", line 322, in OnFileReadyToParse
+    with self._files_being_compiled.GetExclusive( filename ):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/ephemeral_values_set.py", line 63, in __enter__
+    raise RuntimeError( ALREADY_PARSING_MESSAGE )
+RuntimeError: File already being parsed.
+Traceback (most recent call last):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 861, in _handle
+    return route.call(**args)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 1734, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/watchdog_plugin.py", line 106, in wrapper
+    return callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/hmac_plugin.py", line 72, in wrapper
+    body = callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/handlers.py", line 65, in EventNotification
+    event_handler )( request_data )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/clang_completer.py", line 322, in OnFileReadyToParse
+    with self._files_being_compiled.GetExclusive( filename ):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/ephemeral_values_set.py", line 63, in __enter__
+    raise RuntimeError( ALREADY_PARSING_MESSAGE )
+RuntimeError: File already being parsed.
+Traceback (most recent call last):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 861, in _handle
+    return route.call(**args)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 1734, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/watchdog_plugin.py", line 106, in wrapper
+    return callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/hmac_plugin.py", line 72, in wrapper
+    body = callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/handlers.py", line 65, in EventNotification
+    event_handler )( request_data )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/clang_completer.py", line 322, in OnFileReadyToParse
+    with self._files_being_compiled.GetExclusive( filename ):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/ephemeral_values_set.py", line 63, in __enter__
+    raise RuntimeError( ALREADY_PARSING_MESSAGE )
+RuntimeError: File already being parsed.
+Traceback (most recent call last):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 861, in _handle
+    return route.call(**args)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 1734, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/watchdog_plugin.py", line 106, in wrapper
+    return callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/hmac_plugin.py", line 72, in wrapper
+    body = callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/handlers.py", line 65, in EventNotification
+    event_handler )( request_data )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/clang_completer.py", line 322, in OnFileReadyToParse
+    with self._files_being_compiled.GetExclusive( filename ):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/ephemeral_values_set.py", line 63, in __enter__
+    raise RuntimeError( ALREADY_PARSING_MESSAGE )
+RuntimeError: File already being parsed.
+Traceback (most recent call last):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 861, in _handle
+    return route.call(**args)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 1734, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/watchdog_plugin.py", line 106, in wrapper
+    return callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/hmac_plugin.py", line 72, in wrapper
+    body = callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/handlers.py", line 65, in EventNotification
+    event_handler )( request_data )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/clang_completer.py", line 322, in OnFileReadyToParse
+    with self._files_being_compiled.GetExclusive( filename ):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/ephemeral_values_set.py", line 63, in __enter__
+    raise RuntimeError( ALREADY_PARSING_MESSAGE )
+RuntimeError: File already being parsed.
+Traceback (most recent call last):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 861, in _handle
+    return route.call(**args)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 1734, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/watchdog_plugin.py", line 106, in wrapper
+    return callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/hmac_plugin.py", line 72, in wrapper
+    body = callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/handlers.py", line 65, in EventNotification
+    event_handler )( request_data )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/clang_completer.py", line 322, in OnFileReadyToParse
+    with self._files_being_compiled.GetExclusive( filename ):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/ephemeral_values_set.py", line 63, in __enter__
+    raise RuntimeError( ALREADY_PARSING_MESSAGE )
+RuntimeError: File already being parsed.
+Traceback (most recent call last):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 861, in _handle
+    return route.call(**args)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 1734, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/watchdog_plugin.py", line 106, in wrapper
+    return callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/hmac_plugin.py", line 72, in wrapper
+    body = callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/handlers.py", line 65, in EventNotification
+    event_handler )( request_data )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/clang_completer.py", line 322, in OnFileReadyToParse
+    with self._files_being_compiled.GetExclusive( filename ):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/ephemeral_values_set.py", line 63, in __enter__
+    raise RuntimeError( ALREADY_PARSING_MESSAGE )
+RuntimeError: File already being parsed.
+Traceback (most recent call last):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 861, in _handle
+    return route.call(**args)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 1734, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/watchdog_plugin.py", line 106, in wrapper
+    return callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/hmac_plugin.py", line 72, in wrapper
+    body = callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/handlers.py", line 65, in EventNotification
+    event_handler )( request_data )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/clang_completer.py", line 322, in OnFileReadyToParse
+    with self._files_being_compiled.GetExclusive( filename ):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/ephemeral_values_set.py", line 63, in __enter__
+    raise RuntimeError( ALREADY_PARSING_MESSAGE )
+RuntimeError: File already being parsed.
+Traceback (most recent call last):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 861, in _handle
+    return route.call(**args)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 1734, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/watchdog_plugin.py", line 106, in wrapper
+    return callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/hmac_plugin.py", line 72, in wrapper
+    body = callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/handlers.py", line 65, in EventNotification
+    event_handler )( request_data )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/clang_completer.py", line 322, in OnFileReadyToParse
+    with self._files_being_compiled.GetExclusive( filename ):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/ephemeral_values_set.py", line 63, in __enter__
+    raise RuntimeError( ALREADY_PARSING_MESSAGE )
+RuntimeError: File already being parsed.
+Traceback (most recent call last):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 861, in _handle
+    return route.call(**args)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 1734, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/watchdog_plugin.py", line 106, in wrapper
+    return callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/hmac_plugin.py", line 72, in wrapper
+    body = callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/handlers.py", line 65, in EventNotification
+    event_handler )( request_data )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/clang_completer.py", line 322, in OnFileReadyToParse
+    with self._files_being_compiled.GetExclusive( filename ):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/ephemeral_values_set.py", line 63, in __enter__
+    raise RuntimeError( ALREADY_PARSING_MESSAGE )
+RuntimeError: File already being parsed.
+Traceback (most recent call last):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 861, in _handle
+    return route.call(**args)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 1734, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/watchdog_plugin.py", line 106, in wrapper
+    return callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/hmac_plugin.py", line 72, in wrapper
+    body = callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/handlers.py", line 65, in EventNotification
+    event_handler )( request_data )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/clang_completer.py", line 322, in OnFileReadyToParse
+    with self._files_being_compiled.GetExclusive( filename ):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/ephemeral_values_set.py", line 63, in __enter__
+    raise RuntimeError( ALREADY_PARSING_MESSAGE )
+RuntimeError: File already being parsed.
+Traceback (most recent call last):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 861, in _handle
+    return route.call(**args)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 1734, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/watchdog_plugin.py", line 106, in wrapper
+    return callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/hmac_plugin.py", line 72, in wrapper
+    body = callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/handlers.py", line 65, in EventNotification
+    event_handler )( request_data )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/clang_completer.py", line 322, in OnFileReadyToParse
+    with self._files_being_compiled.GetExclusive( filename ):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/ephemeral_values_set.py", line 63, in __enter__
+    raise RuntimeError( ALREADY_PARSING_MESSAGE )
+RuntimeError: File already being parsed.
+Traceback (most recent call last):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 861, in _handle
+    return route.call(**args)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 1734, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/watchdog_plugin.py", line 106, in wrapper
+    return callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/hmac_plugin.py", line 72, in wrapper
+    body = callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/handlers.py", line 65, in EventNotification
+    event_handler )( request_data )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/clang_completer.py", line 322, in OnFileReadyToParse
+    with self._files_being_compiled.GetExclusive( filename ):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/ephemeral_values_set.py", line 63, in __enter__
+    raise RuntimeError( ALREADY_PARSING_MESSAGE )
+RuntimeError: File already being parsed.
+Traceback (most recent call last):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 861, in _handle
+    return route.call(**args)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 1734, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/watchdog_plugin.py", line 106, in wrapper
+    return callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/hmac_plugin.py", line 72, in wrapper
+    body = callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/handlers.py", line 65, in EventNotification
+    event_handler )( request_data )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/clang_completer.py", line 322, in OnFileReadyToParse
+    with self._files_being_compiled.GetExclusive( filename ):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/ephemeral_values_set.py", line 63, in __enter__
+    raise RuntimeError( ALREADY_PARSING_MESSAGE )
+RuntimeError: File already being parsed.
+Traceback (most recent call last):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 861, in _handle
+    return route.call(**args)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 1734, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/watchdog_plugin.py", line 106, in wrapper
+    return callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/hmac_plugin.py", line 72, in wrapper
+    body = callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/handlers.py", line 65, in EventNotification
+    event_handler )( request_data )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/clang_completer.py", line 322, in OnFileReadyToParse
+    with self._files_being_compiled.GetExclusive( filename ):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/ephemeral_values_set.py", line 63, in __enter__
+    raise RuntimeError( ALREADY_PARSING_MESSAGE )
+RuntimeError: File already being parsed.
+Traceback (most recent call last):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 861, in _handle
+    return route.call(**args)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 1734, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/watchdog_plugin.py", line 106, in wrapper
+    return callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/hmac_plugin.py", line 72, in wrapper
+    body = callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/handlers.py", line 65, in EventNotification
+    event_handler )( request_data )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/clang_completer.py", line 322, in OnFileReadyToParse
+    with self._files_being_compiled.GetExclusive( filename ):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/ephemeral_values_set.py", line 63, in __enter__
+    raise RuntimeError( ALREADY_PARSING_MESSAGE )
+RuntimeError: File already being parsed.
+Traceback (most recent call last):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 861, in _handle
+    return route.call(**args)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 1734, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/watchdog_plugin.py", line 106, in wrapper
+    return callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/hmac_plugin.py", line 72, in wrapper
+    body = callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/handlers.py", line 65, in EventNotification
+    event_handler )( request_data )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/clang_completer.py", line 322, in OnFileReadyToParse
+    with self._files_being_compiled.GetExclusive( filename ):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/ephemeral_values_set.py", line 63, in __enter__
+    raise RuntimeError( ALREADY_PARSING_MESSAGE )
+RuntimeError: File already being parsed.
+Traceback (most recent call last):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 861, in _handle
+    return route.call(**args)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 1734, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/watchdog_plugin.py", line 106, in wrapper
+    return callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/hmac_plugin.py", line 72, in wrapper
+    body = callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/handlers.py", line 65, in EventNotification
+    event_handler )( request_data )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/clang_completer.py", line 322, in OnFileReadyToParse
+    with self._files_being_compiled.GetExclusive( filename ):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/ephemeral_values_set.py", line 63, in __enter__
+    raise RuntimeError( ALREADY_PARSING_MESSAGE )
+RuntimeError: File already being parsed.
+Traceback (most recent call last):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 861, in _handle
+    return route.call(**args)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 1734, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/watchdog_plugin.py", line 106, in wrapper
+    return callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/hmac_plugin.py", line 72, in wrapper
+    body = callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/handlers.py", line 65, in EventNotification
+    event_handler )( request_data )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/clang_completer.py", line 322, in OnFileReadyToParse
+    with self._files_being_compiled.GetExclusive( filename ):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/cpp/ephemeral_values_set.py", line 63, in __enter__
+    raise RuntimeError( ALREADY_PARSING_MESSAGE )
+RuntimeError: File already being parsed.
+Traceback (most recent call last):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 861, in _handle
+    return route.call(**args)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 1734, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/watchdog_plugin.py", line 106, in wrapper
+    return callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/hmac_plugin.py", line 72, in wrapper
+    body = callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/handlers.py", line 98, in GetCompletions
+    .ComputeCandidates( request_data ) )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/completer.py", line 218, in ComputeCandidates
+    candidates = self._GetCandidatesFromSubclass( request_data )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/completer.py", line 234, in _GetCandidatesFromSubclass
+    raw_completions = self.ComputeCandidatesInner( request_data )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/python/jedi_completer.py", line 256, in ComputeCandidatesInner
+    for completion in self._JediCompletions( request_data ) ]
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/python/jedi_completer.py", line 261, in _JediCompletions
+    request_data )[ 'completions' ]
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/python/jedi_completer.py", line 199, in _GetResponse
+    response.raise_for_status()
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/requests/requests/models.py", line 840, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: http://127.0.0.1:47739/completions
+Traceback (most recent call last):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 861, in _handle
+    return route.call(**args)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 1734, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/watchdog_plugin.py", line 106, in wrapper
+    return callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/hmac_plugin.py", line 72, in wrapper
+    body = callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/handlers.py", line 98, in GetCompletions
+    .ComputeCandidates( request_data ) )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/completer.py", line 218, in ComputeCandidates
+    candidates = self._GetCandidatesFromSubclass( request_data )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/completer.py", line 234, in _GetCandidatesFromSubclass
+    raw_completions = self.ComputeCandidatesInner( request_data )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/python/jedi_completer.py", line 256, in ComputeCandidatesInner
+    for completion in self._JediCompletions( request_data ) ]
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/python/jedi_completer.py", line 261, in _JediCompletions
+    request_data )[ 'completions' ]
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/python/jedi_completer.py", line 199, in _GetResponse
+    response.raise_for_status()
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/requests/requests/models.py", line 840, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: http://127.0.0.1:47739/completions
+Traceback (most recent call last):
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 861, in _handle
+    return route.call(**args)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/bottle/bottle.py", line 1734, in wrapper
+    rv = callback(*a, **ka)
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/watchdog_plugin.py", line 106, in wrapper
+    return callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/hmac_plugin.py", line 72, in wrapper
+    body = callback( *args, **kwargs )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/handlers.py", line 98, in GetCompletions
+    .ComputeCandidates( request_data ) )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/completer.py", line 218, in ComputeCandidates
+    candidates = self._GetCandidatesFromSubclass( request_data )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/completer.py", line 234, in _GetCandidatesFromSubclass
+    raw_completions = self.ComputeCandidatesInner( request_data )
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/python/jedi_completer.py", line 256, in ComputeCandidatesInner
+    for completion in self._JediCompletions( request_data ) ]
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/python/jedi_completer.py", line 261, in _JediCompletions
+    request_data )[ 'completions' ]
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/ycmd/../ycmd/completers/python/jedi_completer.py", line 199, in _GetResponse
+    response.raise_for_status()
+  File "/home/oliver/dotfiles/.vim/bundle/YCM/third_party/ycmd/third_party/requests/requests/models.py", line 840, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: http://127.0.0.1:47739/completions

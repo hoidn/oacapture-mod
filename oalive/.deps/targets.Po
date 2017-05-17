@@ -1,0 +1,5 @@
+targets.o: targets.cc /usr/include/stdc-predef.h targets.h
+
+/usr/include/stdc-predef.h:
+
+targets.h:
